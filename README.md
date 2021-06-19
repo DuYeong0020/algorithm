@@ -26,4 +26,4 @@
 이연권 : [rjadms1028](https://www.acmicpc.net/user/rjadms1028) <br />
 최두영 : [chlendud00](https://www.acmicpc.net/user/chlendud00) <br />
 노진태 : <br />
-김대원 : <br />
+김대원 : [chocotuna](https://www.acmicpc.net/user/chocotuna)<br />
