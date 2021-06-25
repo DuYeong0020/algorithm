@@ -8,7 +8,7 @@ https://www.acmicpc.net/problem/1010
 
 문제에서의 예시로 보면 서쪽엔 4개 동쪽엔 7개의 사이트가 있는데 동쪽의 7개의 사이트 중에 4개를 뽑아야 하니 7C4의 연산이 나옵니다.
 
-![https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201003/pic1.JPG](img.png)
+![다리이미지](https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/upload/201003/pic1.JPG)
 
 조합(Combination)의 연산을 하기 위해 조합의 특징중의 하나인 파스칼의 삼각형을 이용합니다.
 
