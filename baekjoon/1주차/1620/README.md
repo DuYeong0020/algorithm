@@ -19,7 +19,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-class Test{
+public class Main{
     public static void main(String[] args) throws IOException{
        
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
