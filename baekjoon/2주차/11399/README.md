@@ -1,4 +1,4 @@
-# 14681번
+# 11399번
 
 https://www.acmicpc.net/problem/11399
 
