@@ -1,5 +1,5 @@
 # 알고리즘 스터디
-![로고](logo.png)
+![로고](cat.gif)
 ## 디스코드
 
 ### [초대링크](https://discord.gg/snjNmUkvtk)
